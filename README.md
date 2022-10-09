@@ -1,6 +1,6 @@
 # Instagram-Clone-Firebase-SDWebImage
 
-This is an Instagram clone app which users can sign in, sign out and log out. The users can also register different accounts, upload their photos, leave a comment for their photos, and like the other users' photos. The back-end server of the app is Firebase. Authentication, database, and storage operations have done with Google Firebase. In addition, I benefited from SDWebImage 3rd Party Library to upload photo.
+This is an Instagram clone app which users can sign in, sign out and log out. The users can also register different accounts, upload their photos, leave a comment for their photos, and like the other users' photos. The back-end server of the app is Google Firebase. Authentication, database, and storage operations have done with Firebase. In addition, I benefited from SDWebImage 3rd Party Library to upload photo.
 
 
 <img width="363" alt="Ekran Resmi 2022-10-07 22 52 23" src="https://user-images.githubusercontent.com/92036779/194770416-15901d25-730f-45d0-b4b0-d448da64695c.png">
