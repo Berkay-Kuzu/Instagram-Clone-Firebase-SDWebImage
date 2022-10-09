@@ -13,3 +13,6 @@ This is an Instagram clone app which users can sign in, sign out and log out. Th
 <img width="355" alt="Ekran Resmi 2022-10-09 17 25 52" src="https://user-images.githubusercontent.com/92036779/194770445-c10548e0-57d7-4ede-9aa0-6d2e99771c01.png">
 <img width="351" alt="Ekran Resmi 2022-10-07 22 52 54" src="https://user-images.githubusercontent.com/92036779/194770457-0e89a4d9-e47c-4756-85b3-97565b296bb7.png">
 <img width="354" alt="Ekran Resmi 2022-10-07 22 53 04" src="https://user-images.githubusercontent.com/92036779/194770459-46535a4a-6437-4075-a4a8-8c07d05c99e7.png">
+
+https://user-images.githubusercontent.com/92036779/194770762-2a57890e-7be0-43d2-b418-38b66db72ee2.mov
+
